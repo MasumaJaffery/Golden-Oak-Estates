@@ -4,6 +4,9 @@ export default {
   theme: {
     extend: {},
   },
+  colors: {
+    gold: '#D4AF37', // Use your preferred gold color code
+  },
   plugins: [],
 };
 
