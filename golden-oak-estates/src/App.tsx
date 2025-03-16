@@ -1,7 +1,14 @@
+import Header from '../src/components/Header';
+import Home from '../src/components/Home';
+import Contact from '../src/components/Contact';
+import Footer from '../src/components/Footer';
 export default function App() {
   return (
-    <div className="flex min-h-screen items-center justify-center bg-gray-100">
-      <h1 className="text-4xl font-bold text-blue-500">TailwindCSS is working! 🎉</h1>
-    </div>
+    <>
+    <Header />
+    <Home />
+    <Contact />
+    <Footer />
+    </>
   );
 }
