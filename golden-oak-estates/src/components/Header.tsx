@@ -9,7 +9,7 @@ const Header: React.FC = () => {
 
   return (
     <header className="fixed w-full bg-white shadow-md z-50"> {/* Updated background and shadow */}
-      <nav className="container mx-auto flex items-center justify-between py-5 px-32 text-gray-800"> {/* Updated text color */}
+      <nav className="container mx-auto flex items-center justify-between py-5 px-6 md:px-12 lg:px-32 text-gray-800">  {/* Updated text color */}
         {/* Logo Centered */}
         <div className="flex items-center">
       <img src={Logo} alt="Logo" className="h-16" />
