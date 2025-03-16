@@ -27,7 +27,7 @@ const Header: React.FC = () => {
 
         {/* Contact Us Button */}
         <div className="hidden md:flex">
-          <a href="#contact" className="border border-gold text-gold py-2 px-6 uppercase text-sm tracking-widest hover:bg-gold hover:text-black transition">
+          <a href="#contact" className="border border-gold text-gold py-2 px-6 uppercase text-sm tracking-widest hover:bg-gold hover:text-white transition">
             Contact Us
           </a>
         </div>
@@ -55,7 +55,7 @@ const Header: React.FC = () => {
           <a 
             href="#contact" 
             onClick={toggleMenu} 
-            className="border border-gold text-gold py-2 px-6 hover:bg-gold hover:text-black transition"
+            className="border border-gold text-gold py-2 px-6 hover:bg-gold hover:text-white transition"
           >
             Contact Us
           </a>

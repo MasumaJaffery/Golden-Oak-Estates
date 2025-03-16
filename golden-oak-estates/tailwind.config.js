@@ -4,7 +4,12 @@ export default {
   theme: {
     extend: {
       colors: {
-        gold: '#D4AF37', // Custom gold color
+        gold: '#b2a070',
+        gold1: '#a5956d',
+        gold2: '#928461',
+        footer: '#6e6349',
+        text: '#eadfc2',
+        text1: '#e2d1a3'// Custom gold color
       },
     },
   },
