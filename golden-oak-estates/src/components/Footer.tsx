@@ -87,13 +87,13 @@ const Footer: React.FC = () => {
                 150 Mercer Street, Suite 1206 Highstown
                 NJ 08520, United States
                 (609) 375-8828<br />
-               mail@splendorhomesllc.com<br />
+               mail@goldenoaknj.com<br />
               </p>
               <div className="mt-4 flex space-x-4 justify-center">
                 <a href="#" className="text-white hover:text-gold"><FaTwitter /></a>
                 <a href="#" className="text-white hover:text-gold"><FaFacebookF /></a>
                 <a href="#" target="_blank" className="text-white hover:text-gold"><FaInstagram /></a>
-                <a href="mailto:mail@splendorhomesllc.com" className="text-white hover:text-gold"><FaGooglePlusG /></a>
+                <a href="mailto:mail@goldenoakestates.com" className="text-white hover:text-gold"><FaGooglePlusG /></a>
                 <a href="#" className="text-white hover:text-gold"><FaLinkedinIn /></a>
               </div>
             </div>
