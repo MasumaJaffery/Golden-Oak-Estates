@@ -66,6 +66,7 @@ const About: React.FC = () => {
             className="mt-6 inline-block bg-gold text-white font-bold py-3 px-6 shadow-md hover:bg-opacity-90 transition duration-300"
           >
             Explore More
+            
           </a>
         </div>
       </div>
