@@ -1,0 +1,15 @@
+import React from 'react';
+import Home from '../Home';
+import About from '../About';
+import Contact from '../Contact';
+const HomePage: React.FC = () => {
+  return (
+    <>
+    <Home />
+    <About />
+    <Contact />
+    </>
+  );
+};
+
+export default HomePage;
